@@ -1,0 +1,3 @@
+# Liver-disease-Stage-prediction-SDS-BIT-MESRA
+This is the Solution for the competition https://dphi.tech/challenges/sds-bit-mesra-ml-contest-on-liver-disease-prediction/192/leaderboard/private/ where our team Dataminers was able to achieve 21st position outs in private lea of 120 teamderboard, We explored a lot of imputational and interpolation methods for the mising data and built the whole pipeline in PyTorch.  Our task was to predict the Stage of the patient according to their medical reports.  
+This Repo includes the EDA as well as the entire experimental exploring we did with various approaches.
